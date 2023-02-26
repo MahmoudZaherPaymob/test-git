@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //add comment to test feature branch
+        // new comment to the same feature
     }
 }
