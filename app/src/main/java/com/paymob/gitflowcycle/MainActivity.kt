@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun test(): String {
-        return "test"
+        return "test text"
     }
 }
